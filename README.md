@@ -1,7 +1,16 @@
-- Hi, I’m @Leaf8910
+## Hi, I’m @Leaf8910
+
+<p align="cneter">Welcome ! You've just landed on my GitHub profile!</p>
+<p align="center">
+    < a href="https://discordapp.com/users/481003772311502849">Discord</a> - 
+    <a href="https://twitter.com/leaf891">Twitter</a>
+</p>
+
+
 - I’m interested in integration
-- I’m currently learning python and sql
-- How to reach me discord cheetah#6415
+- I’m currently expanding on python TensorFlow and learning backend
+- Ask me about: C/C++, Arudino, Emacs, Pi-Hole, Docker
+
 
 <!---
 Leaf8910/Leaf8910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
