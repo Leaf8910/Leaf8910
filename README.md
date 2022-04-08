@@ -2,7 +2,7 @@
 
 <p align="cneter">Welcome ! You've just landed on my GitHub profile!</p>
 <p align="center">
-    < a href="https://discordapp.com/users/481003772311502849">Discord</a> - 
+    <a href="https://discordapp.com/users/481003772311502849">Discord</a> - 
     <a href="https://twitter.com/leaf891">Twitter</a>
 </p>
 
