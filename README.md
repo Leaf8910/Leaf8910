@@ -8,7 +8,7 @@
 
 
 - I’m interested in integration
-- I’m currently expanding on python TensorFlow and learning backend
+- I’m currently expanding on TensorFlow, React and learning backend
 - Ask me about: C/C++, Arudino, Emacs, Pi-Hole, Docker
 
 
