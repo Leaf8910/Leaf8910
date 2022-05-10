@@ -7,7 +7,7 @@
 </p>
 
 
-- I’m interested in integration
+- I’m interested in integration, machine learning and data anlytics
 - I’m currently expanding on TensorFlow, React and learning backend
 - Ask me about: C/C++, Arudino, Emacs, Pi-Hole, Docker
 
